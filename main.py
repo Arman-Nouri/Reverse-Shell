@@ -5,9 +5,10 @@ import telebot
 
 print("Script Make By : Arman Nouri \nInstagram : Arman_nouri_pg \nTelegram : Ar0_1man \nAttention : Any misuse of the script is responsibility of the person ")
 
-
+# as a String
 bot_token = "Enter Your bot token"
 
+# as a Intger
 chat_id = Enter_Your_Chat_Id
 
 bot = telebot.TeleBot(bot_token)
