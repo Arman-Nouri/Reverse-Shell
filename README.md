@@ -1,3 +1,3 @@
 My social Media : 
-Instagram : ArmanNouriy
+Instagram : ArmanNoouri
 Telegram : Ar0_1man
